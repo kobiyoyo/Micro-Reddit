@@ -1,4 +1,4 @@
-# RESPONSIVE DESIGN
+# MICRO-REDDIT
 
 This project is aimed at building  data structures necessary to support link submissions and commenting. 
 
